@@ -4,10 +4,8 @@ import { Sparkles, Trophy, ShoppingCart, Percent, Layers, ShieldCheck } from "lu
 import { motion, AnimatePresence } from "motion/react";
 
 // Importing generated assets
-// @ts-ignore
-import obsidianSneaker from "../assets/images/pema_sneaker_gold_obsidian_1779521090799.png";
-// @ts-ignore
-import sunriseSneaker from "../assets/images/pema_sneaker_neon_sunrise_1779521110652.png";
+const obsidianSneaker = "https://i.imgur.com/q7HzJW1.jpeg";
+const sunriseSneaker = "https://i.imgur.com/jaSh5CT.jpeg";
 
 const VARIANTS: ShoeVariant[] = [
   {

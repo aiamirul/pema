@@ -10,8 +10,7 @@ import ReservationForm from "./components/ReservationForm";
 import ReservationLedger from "./components/ReservationLedger";
 
 // Asset Images
-// @ts-ignore
-import heroSneaker from "./assets/images/pema_sneaker_hero_1779521068206.png";
+const heroSneaker = "https://i.imgur.com/TcYRXwe.jpeg";
 
 // Types
 import { CartItem, ShoeVariant } from "./types";
