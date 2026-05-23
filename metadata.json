@@ -1,0 +1,6 @@
+{
+  "name": "Pema - Premium Luxury Sneakers",
+  "description": "An interactive luxury landing page and reservation system for the limited Pema multicolor luxury sport sneaker series in Malaysia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
